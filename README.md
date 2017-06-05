@@ -1,11 +1,11 @@
 # quandl-retriever
 Packages:
-•	python2.7
-•	numpy
-•	panda
-•	quandl
-•	csv
-•	urllibb2
+  * python2.7
+  * numpy
+  *	panda
+  *	quandl
+  *	csv
+  * urllibb2
 
 Quandl usage rules:
 Dataset calls are rate-limited to 2,000 calls per 10 minutes. Search calls are limited to 60 per minute. 
